@@ -10,11 +10,12 @@
         },
          {
           "src": "/success",
-          "dest": "/success"
+          "dest": "/"
         },
          {
           "src": "/fail",
-          "dest": "/fail"
+          "dest": "/"
         }
+        
     ]
   }
