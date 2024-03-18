@@ -5,8 +5,16 @@
     ],
     "routes": [
         {
-          "src": "/(.*)",
+          "src": "/index",
           "dest": "/"
+        },
+         {
+          "src": "/success",
+          "dest": "/success"
+        },
+         {
+          "src": "/fail",
+          "dest": "/fail"
         }
     ]
   }
