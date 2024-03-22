@@ -12,7 +12,7 @@ body {
 
 .SubContainer {
     box-shadow: 0px -25px 20px -20px rgba(0, 0, 0, 0.45), 25px 0 20px -20px rgba(0, 0, 0, 0.45), 0px 25px 20px -20px rgba(0, 0, 0, 0.45), -25px 0 20px -20px rgba(0, 0, 0, 0.45);
-    height: auto;
+    height:65%;
     width: 70%;
     padding: 50px;
     background-color: white;
@@ -43,5 +43,6 @@ h2.contactHead {
     /* For mobile phones and smaller tablets */
     .SubContainer {
         width: 100%;
+        height: auto;
     }
 }
